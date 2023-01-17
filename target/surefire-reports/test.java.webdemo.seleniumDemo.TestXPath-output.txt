@@ -1,0 +1,30 @@
+Starting Microsoft Edge WebDriver 109.0.1518.55 (354a05280ee672695ea1b299aab94b38bb4777b6) on port 10571
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+sty 17, 2023 10:14:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 109, so returning the closest version found: 108
+div
+center
+center
+div
+(403, 34)
+(0, 0)
+(0, 0)
+(139, 36)
+(127, 36)
+(0, 0)
+(0, 0)
+(0, 0)
+
+Szukaj w Google
+Szczęśliwy traf
+Szukaj w Google
+Szczęśliwy traf
+hp
+wQ_HY5unI8TzkgWA_KbYDg
+AK50M_UAAAAAY8cd0b60UlGnpCKXQ35KdQn5141RFi7F
+Szukaj w Google
