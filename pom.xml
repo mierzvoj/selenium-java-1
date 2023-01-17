@@ -4,7 +4,7 @@
     <groupId>com.test.maven</groupId>
     <artifactId>sample-maven-build</artifactId>
     <version>1</version>
-    <name>sample-maven-build</name>
+    <name>seleniumDemo</name>
     <build>
         <!-- Source directory configuration -->
         <sourceDirectory>src</sourceDirectory>
