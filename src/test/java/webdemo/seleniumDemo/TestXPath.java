@@ -91,7 +91,7 @@ public class TestXPath {
 
     @Test
     public void testExactAtributeNode() {
-        WebElement element = driver.findElement(By.xpath("//input[@value = 'Search Google:']"));
+        WebElement element = driver.findElement(By.xpath("//title[@value = 'Szukaj']"));
         System.out.println(element.getAttribute("value"));
         assertNotNull(element);
     }
