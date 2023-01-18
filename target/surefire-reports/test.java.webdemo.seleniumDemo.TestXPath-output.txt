@@ -1,11 +1,11 @@
-Starting Microsoft Edge WebDriver 109.0.1518.55 (354a05280ee672695ea1b299aab94b38bb4777b6) on port 15226
+Starting Microsoft Edge WebDriver 109.0.1518.55 (354a05280ee672695ea1b299aab94b38bb4777b6) on port 38199
 To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
 
 Only local connections are allowed.
 Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
 
 Microsoft Edge WebDriver was started successfully.
-sty 17, 2023 10:34:47 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+sty 18, 2023 11:04:02 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 109, so returning the closest version found: 108
 div
 center
@@ -25,6 +25,6 @@ Szczęśliwy traf
 Szukaj w Google
 Szczęśliwy traf
 hp
-ehTHY-GtNI7xkwWCuaxo
-AK50M_UAAAAAY8ciijgC_8s8O4apHpbYlMfFvW0ScO09
-Szukaj w Google
+FcTHY6H4N4SIgAbf2rP4BQ
+AK50M_UAAAAAY8fSJQuxqyISWZ4sxhncm01PhPZyhGm8
+

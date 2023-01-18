@@ -43,7 +43,7 @@ public class TestCoogle {
 
 	@Test
 	public void testTitlePage() {
-    	assertEquals("DuckDuckGo — Privacy, simplified.", driver.getTitle());
+    	assertEquals("DuckDuckGo — Prywatność — jeszcze prostsza.", driver.getTitle());
 	}
 
 	@Test
